@@ -52,4 +52,4 @@ rules for working with ai for coding that I use (short recap of rules.md):
 
 
 - (for user) : if tight with session tokens write handoff to use in another session, or just copy paste everything after last spec update. (you can also use 'Claude Exporter' to export conversation to text)
-- click above on rules.md to see/download whole files
+- click above on rules.md to see/download the whole file.
