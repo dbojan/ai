@@ -1,6 +1,8 @@
 # ai
 musings about (free) ai, including my rules.md
 
+v2026-10-11-20-23-10
+
 
  ### how to use ai for free (free trial) 
 
@@ -31,3 +33,9 @@ Did not see this anywhere, so I hope it helps someone.
 Claude web browse usage tracker that works with free plan too: [https://addons.mozilla.org/en-US/firefox/addon/claude-usage-tracker](https://addons.mozilla.org/en-US/firefox/addon/claude-usage-tracker)
 
 EDIT note: claude web peak is utc 1 PM to 7 PM UTC window (which matches 5:00 AM to 11:00 AM PT), your tokens are used much faster, avoid that time.
+
+
+
+<hr>
+
+rules.md v2026-10-04-22-24-03
