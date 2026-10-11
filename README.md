@@ -38,4 +38,14 @@ EDIT note: claude web peak is utc 1 PM to 7 PM UTC window (which matches 5:00 AM
 
 <hr>
 
-rules.md v2026-10-04-22-24-03
+rules.md 
+
+v2026-10-04-22-24-03
+
+rules for working with ai for coding that I use:
+- no coding till I say code word
+- each source file is timestamped
+- spec is updated after every (complete) change
+- if tight with session tokens write handoff to use in another session, or just copy paste everything after last spec update. (you can also use 'Claude Exporter' to export conversation to text)
+
+- click above on rules.md to see/download it.
