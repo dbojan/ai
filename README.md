@@ -42,10 +42,14 @@ rules.md
 
 v2026-10-04-22-24-03
 
-rules for working with ai for coding that I use:
+rules for working with ai for coding that I use short recap of rules.md:
 - no coding till I say code word
+- explain what this patch will do in plain English, and which files will be modifed
+- no unnecessary refactoring, use smallest correct patch
 - each source file is timestamped
 - spec is updated after every (complete) change
-- if tight with session tokens write handoff to use in another session, or just copy paste everything after last spec update. (you can also use 'Claude Exporter' to export conversation to text)
+- no changes between command and implementation without my explicit confirmation
 
+
+- (for user) : if tight with session tokens write handoff to use in another session, or just copy paste everything after last spec update. (you can also use 'Claude Exporter' to export conversation to text)
 - click above on rules.md to see/download it.
